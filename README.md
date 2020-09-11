@@ -2,6 +2,8 @@ This is just extra text
 Extra text2
 Text 3
 
+Text 09/11/2020
+
 HelloWorld Servlet example with corresponding Dockerfile
 
 Use Maven Build first to create war file in Target folder.
