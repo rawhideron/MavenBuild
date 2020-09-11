@@ -1,5 +1,6 @@
 This is just extra text
 Extra text2
+Text 3
 
 HelloWorld Servlet example with corresponding Dockerfile
 
