@@ -1,4 +1,4 @@
-This Build will send me an email when it's done
+This Build will send me an email when it's done failing
 
 Text 09/11/2020 2
 
