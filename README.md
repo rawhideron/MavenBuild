@@ -1,6 +1,4 @@
-This is just extra text
-Extra text2
-Text 3
+This Build will send me an email when it's done
 
 Text 09/11/2020 2
 
