@@ -1,3 +1,6 @@
+I'm trying to see how git merges files
+
+
 This Build will send me an email when it's done 
 
 Text 09/11/2020 2
